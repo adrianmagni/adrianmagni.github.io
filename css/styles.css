@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: #f4f5db;
     color: white;
     box-sizing: border-box;
 }
@@ -11,21 +11,20 @@ body {
 }
 
 p {
-    color: #9f9fff;
+    color: rgb(130, 130, 130);
 }
 
 a {
-    color: #f02a9a;
+    color: #61515a;
 }
 
 .content-wrapper {
-    max-width: 1024px;
     margin: 0 auto;
 }
 
 .main-content {
     padding: 25px;
-    background-image: url("../img/backg_03_blank.png");
-    min-height: 640px;
-    height: auto;
+    min-width: 640px;
+    width: 75%;
+    margin: 0 auto;
 }
