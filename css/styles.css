@@ -18,6 +18,24 @@ a {
     color: #61515a;
 }
 
+.header-title {
+    font-size: larger;
+    margin: 10px;
+}
+
+.header-title a {
+    text-decoration: none;
+    padding: 2px 20px;
+}
+
+.header-title a:hover {
+    text-decoration:underline;
+}
+
+.active{
+    font-weight: bold;
+}
+
 .content-wrapper {
     margin: 0 auto;
 }
@@ -30,6 +48,9 @@ a {
     font-size: large;
 }
 
-.header-title {
-    font-size: larger;
+.main-image {
+}
+
+
+.main-image img {
 }
