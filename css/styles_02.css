@@ -11,9 +11,6 @@ body {
     font-style: normal;
 }
 
-p {
-}
-
 a {
     color: #61515a;
 }
@@ -54,13 +51,6 @@ a {
     margin: 0 auto;
     font-size: large;
     line-height: 1.5;
-}
-
-.main-image {
-}
-
-
-.main-image img {
 }
 
 h2 {
