@@ -1,6 +1,6 @@
 body {
-    background-color: #f4f5db;
-    color: rgb(130, 130, 130);
+    background-color: #000011;
+    color: #efefef;
     box-sizing: border-box;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -12,7 +12,7 @@ body {
 }
 
 a {
-    color: #61515a;
+    color: #e2deff;
 }
 
 .header-title {
