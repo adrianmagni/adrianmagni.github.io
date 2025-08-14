@@ -20,15 +20,10 @@ a {
     margin: 10px;
 }
 
-@media screen and (max-width: 720px) {
-    .header-title a {
-        display: block;
-    }
-}
-
 .header-title a {
     text-decoration: none;
     padding: 2px 20px;
+    display: block;
 }
 
 .header-title a:hover {
