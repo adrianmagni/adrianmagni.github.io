@@ -1,6 +1,6 @@
-const topImages = ["diggers.jpg","riotinto.jpg","topo.jpg","ikusi.jpg","gamewall.jpg","PullmanSydneyAirport.jpg","byte.jpg"];
+const topImages = ["riotinto.jpg","diggers.jpg","topo.jpg","ikusi.jpg","gamewall.jpg","PullmanSydneyAirport.jpg","byte.jpg"];
 var currentImage=0;
-setInterval(imageChange,3000);
+setInterval(imageChange,5000);
 
 function imageChange() {
     currentImage++;
